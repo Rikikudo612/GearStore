@@ -1,0 +1,12 @@
+body{
+    background-image:url(padoru.jpg);
+    background-size: cover;
+}
+
+.tool{
+    background-color:gray;
+    width: 50px;
+    height: max-content;
+    display: block;
+    
+}
